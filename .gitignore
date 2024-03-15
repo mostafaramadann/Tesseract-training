@@ -1,0 +1,6 @@
+tesseract_training_venv
+ara.txt
+arwiki-20180120-pages-articles-multistream.xml
+output.txt
+tesstrain/tessdata/ara_old.traineddata
+tesstrain/tessdata/ara.traineddata
